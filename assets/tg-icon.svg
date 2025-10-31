@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#D4AF37"/>
+      <stop offset="1" stop-color="#F2D57E"/>
+    </linearGradient>
+  </defs>
+  <circle cx="32" cy="32" r="30" fill="none" stroke="url(#g)" stroke-width="4"/>
+  <text x="32" y="36" font-size="24" font-family="El Messiri, Tajawal, sans-serif" font-weight="700" text-anchor="middle" fill="url(#g)">TG</text>
+</svg>
